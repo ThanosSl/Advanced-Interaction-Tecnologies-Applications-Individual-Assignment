@@ -52,3 +52,4 @@
 
 
 # Sources
+http://learningprocessing.com/ , https://shiffman.net/p5/qrcode-processing/ , https://github.com/nyatla/NyARToolkit-for-Processing/releases
