@@ -37,7 +37,7 @@
 
 
 ## 5. Augmented Reality
-* Εγκατέστησα την βιβλιοθήκη NyARToolkit, zip file. Πήρα τον κώδικα του simpleLite
+* Εγκατέστησα την βιβλιοθήκη NyARToolkit, zip file. Πήρα τον κώδικα του simpleLite, από το example και έβαλα στον φάκελο data την εικόνα που ήθελα, και το hiro, ώστε να φαίνονται και να αναγνωρίζεται το hiro (QRCode).
 
 # 2nd Deliverable
 
