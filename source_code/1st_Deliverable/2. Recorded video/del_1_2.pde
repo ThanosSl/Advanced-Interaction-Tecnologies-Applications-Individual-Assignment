@@ -8,7 +8,7 @@ void setup() {
 
   // Step 2. Initialize Movie object
   // Movie file should be in data folder
-  movie = new Movie(this, "180503_02_PurpleGrid.mp4"); 
+  movie = new Movie(this, "Untitled.mp4"); 
 
   // Step 3. Start movie playing
   movie.loop();
