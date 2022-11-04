@@ -26,11 +26,12 @@
 ## 3. QR Code
 * Έκανα προσθήκη της βιβλιοθήκης QRCode στο Contribution Manager και έπειτα έφτιαξα το δικό μου [QRCode] (https://www.qrcode-monkey.com/) και τέλος εφάρμοσα το example 15-1 και έκανα adjust τα dimensions ώστε να φαίνεται σωστά στον υπολογιστή.
 
-![Screenshot (4)](https://user-images.githubusercontent.com/100956202/199953098-24a3af38-7521-48b5-95dc-7c976630d2fd.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/100956202/199953421-a172bb60-6d24-4fbd-a6f2-d1f2bb407b00.png)
+
 
 
 ## 4. QR Code - Camera Read
-* Σύμφωνα με το example-κώδικα του QRCode, πέρασα τον QRCode που έφτιαξα πριν, την εικόνα δηλαδή και πατώταντας το space εμφανιζόταν το url μου στο github.
+* Σύμφωνα με το example-κώδικα του QRCode, πέρασα τον QRCode που έφτιαξα πριν, την εικόνα δηλαδή και πατώταντας το space εμφανιζόταν το url μου στο github, έχοντας το κινητό με το QR μπροστά στη κάμερα.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/100956202/199953140-747dd20b-f5da-42c1-a0b6-efd1527639e4.png)
 
